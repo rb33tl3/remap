@@ -2,7 +2,7 @@ bubblesort.c
 circularqueue.c
 dir_implem_bst.c
 exp_tree.c
-insertionsort.c
+insertion.c
 infix2postfix.c
 landmine.c
 merge.c
