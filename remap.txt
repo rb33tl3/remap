@@ -15,3 +15,9 @@ singlylist.c
 stack.c
 texteditor.c
 transposesparse.c
+postofficequeue.c
+binarysearch.c
+dequeue.c
+browser.c
+singlymulti.c
+water.c
